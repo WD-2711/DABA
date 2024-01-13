@@ -12,4 +12,4 @@ The call graph of the main files is as follows:
 
 ![s1_train_test](s1_train_test.png)
 
-![s1_train_test](../../source/images/README/lib_trigger_injection-17051493470972.png)
+![s1_train_test](lib_trigger_injection.png)
